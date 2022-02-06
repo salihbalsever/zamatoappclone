@@ -1,0 +1,17 @@
+const String arrowAligmentIcon = "assets/icons/arrow_aligment.png";
+const String arrowRightIcon = "assets/icons/arrow_right.png";
+const String arrowDownAppbarIcon = "assets/icons/arrow-down_appbar.png";
+const String orderBottomBarIcon = "assets/icons/order_bottombar.png";
+const String goOutBottomBarIcon = "assets/icons/goout_bottombar.png";
+const String orderTimeIcon = "assets/icons/ordertime.png";
+const String discountShapeIcon = "assets/icons/discount_shape.png";
+const String proBottomBarIcon = "assets/icons/proBottomBar.png";
+const String nutritionBottomBarIcon = "assets/icons/nutrition_bottombar.png";
+const String locationIcon = "assets/icons/location.png";
+const String saveIcon = "assets/icons/save_icon.png";
+const String groceryBottomBarIcon = "assets/icons/grocery_bottombar.png";
+const String starIcon = "assets/icons/star.png";
+const String searchIcon = "assets/icons/search.png";
+const String blueGreenIcon = "assets/icons/bluegreen_icon.png";
+const String purpleIcon = "assets/icons/purple_icon.png";
+const String discountIcon = "assets/icons/discount_icon.png";
